@@ -1,1 +1,4 @@
 violets are blue
+sunflowers are yellow
+most git classes are lively
+but today's class is mellow
